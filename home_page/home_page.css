@@ -87,3 +87,24 @@ header nav ul li a:hover {
     color: rgba(255, 255, 255, 0.74);
     max-width: 80%;
 }
+
+.photos-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+
+.photos-section .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photos-section .row .column {
+    flex: 100%;
+}
+
+.photos-section .row .column img {
+    width: 25em;
+    vertical-align: middle;
+}
