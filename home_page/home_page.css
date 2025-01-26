@@ -144,3 +144,46 @@ h3 {
     height: 30em;
     object-fit: cover;
 }
+
+.schedule-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin-top: 2em;
+  }
+  
+table td, table th {
+    border: 1px solid #95ba87;
+    padding: 14px;
+}
+  
+table tr:nth-child(even) {
+    background-color: #ffffffaf;
+}
+
+table tr:nth-child(even):hover {
+    background-color: #f5f5f542;
+}
+
+table tr:nth-child(odd) {
+    background-color: #95ba8770;
+}
+  
+table tr:nth-child(odd):hover {
+    background-color: #95ba87ab;
+}
+  
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #007427ad;
+    color: white;
+}
