@@ -3,6 +3,6 @@
 
 ## 💡 Features
 - **Practice Schedules**: View the current practice sessions in specific hours for all days of the week.
-- **Trainer Information**: Meet our professional trainers.
-- **Photo Gallery**: Explore images of our club's activities and tournaments.
+- **Trainers Information**: Meet our professional trainers.
+- **Photos Gallery**: Explore images of our club's activities and tournaments.
 - **Contact Information**: Get in touch with us or find our location.
